@@ -1,1 +1,47 @@
-Devlog
+Team Flying Ostrich Bouquet Development Log
+Mastermind Board Game by Marc Katz and Justin Strauss
+
+Tuesday 1/21/14:
+
+
+Friday 1/17/14:
+Experimented with different board setups including two dimensional arrays of JButtons, JPanels, and Colors.
+
+Thursday: 1/16/14:
+We researched Java GUI's and 
+
+We completed the terminal version of the game:
+
+Monday 1/13/14:
+
+
+Friday 1/10/14:
+We made the skeleton files with the required methods and discussed approached to gameplay.
+
+Thursday 1/9/14:
+Our proposal was approved and we made a UML diagram, flowchart, timeline, and to do list.
+
+Wednesday 1/8/14: 
+We submitted the proposal and created this GitHub repo.
+
+Tuesday 1/7/14:
+We decided on Mastermind and completed the proposal.
+
+Monday 1/6/14:
+We brainstormed possible ideas, and the following were considered.
+- Yahtzee (Justin's NetLogo final project)
+- Scrabble (Marc's NetLogo final project)
+- Mastermind (something totally new)
+
+
+        Obstacles Overcome (and how)
+
+        Unresolved Issues
+
+        Cool Stuff Learned (conceptual and/or practical)
+
+        Mid-development Design Changes (and why)
+
+        Lessons Learned (to apply to future projects, CS or otherwise)
+
+    readme.txt -- plaintext file giving simple instructions for running your project
