@@ -51,20 +51,30 @@ We brainstormed possible ideas, and the following were considered.
 
 Obstacles Overcome (and how)
 
-At first, we decided to have the user input the name of the color they wanted to select for the pegs 
+At first, we decided to have the user input the name of the color they wanted to select for each peg. This gave a lot of room for user error and it took longer than we wanted since this would have to be done 4 times per turn. To overcome this obstacle, we printed the following key at the beginning of the game:
+
+  RED    - 0
+  BLUE   - 1
+  GREEN  - 2
+  YELLOW - 3
+  PURPLE - 4
+  BLACK  - 5
+  
+This way, the user would simply have to input a number to make their peg color selection. We also made an array of strings of names of colors so that the input would correspond to the index of the color in the array. This change also made error handling more streamlined since the only accpeted input could be an integer between 0 and 5, so any number outside this range, any non-integer, or any string would be rejected.
 
 Unresolved Issues
 
-Although, we were able to code a framework for the GUI, we weren't able to fully integrate with the existing classes.
-After researching the 
+Although we were able to code a framework for the GUI, we weren't able to fully integrate it with the existing classes.
+The Oracle Docs ended up being our primary reference for GUI information, but at times, the various options for approaching a single issue were overwhelming. For example, just to lay out the board, we had to decided whether to use a two dimensional array of JButtons, JPanels, or Colors.
 
 Cool Stuff Learned (conceptual and/or practical)
 
-Although, 
+Despite the fact that we were'nt able to get our GUI fully up and running, our newly gained knowledge of GUI's in general will hopefully give us a head start with future GUI related projects. Also, since GitHub was our primarily code repository, we became more familiar and comfortable with using the software.
 
 Mid-development Design Changes (and why)
 
-At the onset of the project we planned to have an additional board class.
+At the onset of the project we planned to have an additional Board class, which would essentially be an array or ArrayList of Rows. Since, each row represents a turn, though, we wanted to avoid redundancy and opted to integrate the board aspect into the Game class driver file instead.
 
 Lessons Learned (to apply to future projects, CS or otherwise)
 
+When learning new concepts 
