@@ -1,22 +1,38 @@
 Team Flying Ostrich Bouquet Development Log
 Mastermind Board Game by Marc Katz and Justin Strauss
 
-Tuesday 1/21/14:
+Friday 1/24/14:
+We sucessfully submitted our project.
 
+Thursday 1/23/14:
+We attempted to complete the GUI using the JButton setup we worked on, but we encountered obstacles integrating it with the existing Game class driver file.
+
+Wednesday 1/22/14:
+We experimented with different board setups including two dimensional arrays of JButtons, JPanels, and Colors.
+
+Tuesday: 1/21/14:
+We researched Java GUI options and compared Swing versus AWT.
+
+Saturday 1/18/14 to Monday 1/20/14:
+We completed the Game class, thereby finishing the terminal version of gameplay for Mastermind.
 
 Friday 1/17/14:
-Experimented with different board setups including two dimensional arrays of JButtons, JPanels, and Colors.
+We began work on the Game class, which controls gameplay, making sure it adhereed to the specifications of the other classes along the way.
 
-Thursday: 1/16/14:
-We researched Java GUI's and 
+Thursday 1/16/14:
+We finished the Rows class, which keeps track of the rows of pegs, each of which represents a turn of the game.
 
-We completed the terminal version of the game:
+Wednesday 1/15/14:
+We completed the PlayPegs and Indicator subclasses and built a framework for the Rows class.
+
+Tuesday 1/14/14:
+We began writing the PlayPegs and Indicator subclasses, both of which extend the Pegs superclasses.
 
 Monday 1/13/14:
-
+We coded the Pegs superclass, which is a basis for the PlayPegs and Indicator subclasses.
 
 Friday 1/10/14:
-We made the skeleton files with the required methods and discussed approached to gameplay.
+We made the skeleton files with the required methods and discussed our approach to gameplay.
 
 Thursday 1/9/14:
 Our proposal was approved and we made a UML diagram, flowchart, timeline, and to do list.
@@ -29,19 +45,17 @@ We decided on Mastermind and completed the proposal.
 
 Monday 1/6/14:
 We brainstormed possible ideas, and the following were considered.
-- Yahtzee (Justin's NetLogo final project)
-- Scrabble (Marc's NetLogo final project)
+- Yahtzee (recreating Justin's NetLogo final project)
+- Scrabble (recreating Marc's NetLogo final project)
 - Mastermind (something totally new)
 
+Obstacles Overcome (and how)
 
-        Obstacles Overcome (and how)
+Unresolved Issues
 
-        Unresolved Issues
+Cool Stuff Learned (conceptual and/or practical)
 
-        Cool Stuff Learned (conceptual and/or practical)
+Mid-development Design Changes (and why)
 
-        Mid-development Design Changes (and why)
+Lessons Learned (to apply to future projects, CS or otherwise)
 
-        Lessons Learned (to apply to future projects, CS or otherwise)
-
-    readme.txt -- plaintext file giving simple instructions for running your project
