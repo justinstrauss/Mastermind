@@ -64,8 +64,7 @@ This way, the user would simply have to input a number to make their peg color s
 
 Unresolved Issues
 
-Although we were able to code a framework for the GUI, we weren't able to fully integrate it with the existing classes.
-The Oracle Docs ended up being our primary reference for GUI information, but at times, the various options for approaching a single issue were overwhelming. For example, just to lay out the board, we had to decided whether to use a two dimensional array of JButtons, JPanels, or Colors.
+Although we were able to code a framework for the GUI, we weren't able to fully integrate it with the existing classes. The Oracle Docs ended up being our primary reference for GUI information, but at times, the various options for approaching a single issue were overwhelming. For example, just to lay out the board, we had to decided whether to use a two dimensional array of JButtons, JPanels, or Colors.
 
 Cool Stuff Learned (conceptual and/or practical)
 
@@ -77,4 +76,4 @@ At the onset of the project we planned to have an additional Board class, which 
 
 Lessons Learned (to apply to future projects, CS or otherwise)
 
-When learning new concepts 
+When learning new concepts in class, such as ArrayLists, we took baby steps and began by coding a vanilla version Array of Steel. Then, we slowly worked our way up to an Array of Awesome. This was an effective approach to learning the ins and outs of ArrayLists. With this project, we delved right into coding a GUI for Mastermind, without first working our way up from a GUI for a simpler program. In future projects, if we want to learn and implement new concepts, we should work with simple iterations before tackling the difficulty necessary for the project itself.
