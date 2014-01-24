@@ -8,7 +8,7 @@ Thursday 1/23/14:
 We attempted to complete the GUI using the JButton setup we worked on, but we encountered obstacles integrating it with the existing Game class driver file.
 
 Wednesday 1/22/14:
-We experimented with different board setups including two dimensional arrays of JButtons, JPanels, and Colors.
+We experimented with different board setups including two dimensional arrays of JButtons, JPanels, and Colors as a framework.
 
 Tuesday: 1/21/14:
 We researched Java GUI options and compared Swing versus AWT.
@@ -51,11 +51,20 @@ We brainstormed possible ideas, and the following were considered.
 
 Obstacles Overcome (and how)
 
+At first, we decided to have the user input the name of the color they wanted to select for the pegs 
+
 Unresolved Issues
+
+Although, we were able to code a framework for the GUI, we weren't able to fully integrate with the existing classes.
+After researching the 
 
 Cool Stuff Learned (conceptual and/or practical)
 
+Although, 
+
 Mid-development Design Changes (and why)
+
+At the onset of the project we planned to have an additional board class.
 
 Lessons Learned (to apply to future projects, CS or otherwise)
 
