@@ -2,7 +2,7 @@ Team Flying Ostrich Bouquet Development Log
 Mastermind Board Game by Marc Katz and Justin Strauss
 
 Friday 1/24/14:
-We sucessfully submitted our project.
+We successfully submitted our project.
 
 Thursday 1/23/14:
 We attempted to complete the GUI using the JButton setup we worked on, but we encountered obstacles integrating it with the existing Game class driver file.
@@ -17,7 +17,7 @@ Saturday 1/18/14 to Monday 1/20/14:
 We completed the Game class, thereby finishing the terminal version of gameplay for Mastermind.
 
 Friday 1/17/14:
-We began work on the Game class, which controls gameplay, making sure it adhereed to the specifications of the other classes along the way.
+We began work on the Game class, which controls gameplay, making sure it adhered to the specifications of the other classes along the way.
 
 Thursday 1/16/14:
 We finished the Rows class, which keeps track of the rows of pegs, each of which represents a turn of the game.
@@ -60,7 +60,7 @@ At first, we decided to have the user input the name of the color they wanted to
   PURPLE - 4
   BLACK  - 5
   
-This way, the user would simply have to input a number to make their peg color selection. We also made an array of strings of names of colors so that the input would correspond to the index of the color in the array. This change also made error handling more streamlined since the only accpeted input could be an integer between 0 and 5, so any number outside this range, any non-integer, or any string would be rejected.
+This way, the user would simply have to input a number to make their peg color selection. We also made an array of strings of names of colors so that the input would correspond to the index of the color in the array. This change also made error handling more streamlined since the only accepted input could be an integer between 0 and 5, so any number outside this range, any non-integer, or any string would be rejected.
 
 Unresolved Issues
 
@@ -68,7 +68,7 @@ Although we were able to code a framework for the GUI, we weren't able to fully 
 
 Cool Stuff Learned (conceptual and/or practical)
 
-Despite the fact that we were'nt able to get our GUI fully up and running, our newly gained knowledge of GUI's in general will hopefully give us a head start with future GUI related projects. Also, since GitHub was our primarily code repository, we became more familiar and comfortable with using the software.
+Despite the fact that we weren't able to get our GUI fully up and running, our newly gained knowledge of GUI's in general will hopefully give us a head start with future GUI related projects. Also, since GitHub was our primarily code repository, we became more familiar and comfortable with using the software.
 
 Mid-development Design Changes (and why)
 
